@@ -176,7 +176,7 @@ button{font:inherit;cursor:pointer;border:none;background:none;color:inherit}
 .hero-body{position:relative;z-index:3;padding:200px 0 60px}
 .hero-eyebrow{
   font-family:var(--ff-head);font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;
-  color:var(--gold-light);margin-bottom:20px;
+  color:#fef212;margin-bottom:20px;
 }
 .hero-h1{font-family:var(--ff-head);font-weight:700;line-height:1.06;letter-spacing:-.015em;margin-bottom:22px}
 .h1-line{display:block;overflow:hidden}
