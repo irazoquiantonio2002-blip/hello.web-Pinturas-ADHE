@@ -128,8 +128,8 @@ button{font:inherit;cursor:pointer;border:none;background:none;color:inherit}
   display:flex;align-items:center;justify-content:space-between;gap:24px;
 }
 .logo{display:flex;align-items:center;gap:10px}
-.logo-img{width:64px;height:64px;object-fit:contain;transition:width .35s ease,height .35s ease}
-#nav.scrolled .logo-img{width:52px;height:52px}
+.logo-img{width:150px;height:150px;object-fit:contain;transition:width .35s ease,height .35s ease}
+#nav.scrolled .logo-img{width:120px;height:120px}
 .logo-word{font-family:var(--ff-head);font-weight:700;font-size:15.5px;letter-spacing:.03em;color:#fff}
 .logo-word em{color:var(--gold);font-style:normal}
 .nav-links{display:flex;align-items:center;gap:30px}
@@ -447,6 +447,8 @@ footer{position:relative;background:var(--ink);color:#d6d6dc;padding:76px 0 30px
   .section{padding:72px 0}
   .nav-links{display:none}
   .hamburger{display:flex}
+  .logo-img{width:92px;height:92px}
+  #nav.scrolled .logo-img{width:76px;height:76px}
   .hero-body{padding-top:150px}
   .stats-row{grid-template-columns:repeat(2,1fr)}
   .svc-grid,.prod-grid{grid-template-columns:1fr}
