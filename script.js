@@ -197,7 +197,7 @@
 
   /* ---------------- CONTACT FORM -> WHATSAPP ---------------- */
   const cForm = document.getElementById('cForm');
-  const WHATSAPP_NUMBER = '524772547726';
+  const WHATSAPP_NUMBER = '524775489425';
   if (cForm) {
     cForm.addEventListener('submit', (e) => {
       e.preventDefault();
