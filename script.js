@@ -121,7 +121,8 @@
       'Esmalte Alquidálico',
       'Sellador Acrílico',
       'Sellador Vinílico',
-      'Esmalte Base Agua'
+      'Esmalte Base Agua',
+      'Pintura Epóxica'
     ];
     let wi = 0, ci = 0, deleting = false;
     function typeLoop() {

@@ -57,6 +57,7 @@ button{font:inherit;cursor:pointer;border:none;background:none;color:inherit}
 .rev.d4{transition-delay:.26s}
 .rev.d5{transition-delay:.33s}
 .rev.d6{transition-delay:.4s}
+.rev.d7{transition-delay:.47s}
 
 /* ---------- typography ---------- */
 .eyebrow{
